@@ -42,17 +42,23 @@ In the first screen we have the list of shifts from the endpoint: https://stagin
 - The icon at the top shows a sort panel to help find a specific shift.
 - The floating button with the developer tools icon takes you to the developer LinkedIn profile.
 
+
 ![shiftapp](shiftapp.png)
 
+
 ![shiftapp2](shiftapp2.png)
+
 
 ### Film List Screen
 In the second screen shows detail information of a specifict shift.
 - The icon at the top with the developer tools icon takes you to the developer LinkedIn profile.
 
+
 ![shiftapp3](shiftapp3.png)
 
+
 ![shiftapp4](shiftapp4.png)
+
 
 ## Dependencies
 *  You can check the whole dependency stack and versions in Project build.gradle
@@ -87,5 +93,7 @@ In the second screen shows detail information of a specifict shift.
 
 ## Legal
 The use of the API and any related documentation is governed by the owner and must be used in accordance with the Terms and Conditions policies, which may be found at: 
+
 - https://bitbucket.org/shiftkeyllc/ios-coding-challenge/src/master/API-DOC.md
+
 The application code usage rights belong to David Antonio Moreno.

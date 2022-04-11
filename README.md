@@ -49,7 +49,7 @@ In the first screen we have the list of shifts from the endpoint: https://stagin
 ![shiftapp2](shiftapp2.png)
 
 
-### Film List Screen
+### Shift List Screen
 In the second screen shows detail information of a specifict shift.
 - The icon at the top with the developer tools icon takes you to the developer LinkedIn profile.
 

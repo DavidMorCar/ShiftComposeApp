@@ -52,6 +52,8 @@ In the second screen shows detail information of a specifict shift.
 
 ![shiftapp3](shiftapp3.png)
 
+![shiftapp4](shiftapp4.png)
+
 ## Dependencies
 *  You can check the whole dependency stack and versions in Project build.gradle
 ```kotlin
